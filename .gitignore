@@ -1,0 +1,23 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+
+# Build directories
+bin/
+obj/
+
+# Code::Blocks project files
+*.cbp
+*.depend
+*.layout
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
